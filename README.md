@@ -1,6 +1,8 @@
 # EDS220_Fall2022_HW2
 ## An Analysis of Global Flood Data
 
+#### Student Authors: Elise Gonzales, Lewis White, Amrit Sandhu
+
 ### Contents:
 - HW2_template.ipynb: Template Jupyter notebook for use in Homework 2 and final project
 - environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
@@ -22,7 +24,7 @@ The dataset includes many image properties such as:
    - severity of flood event 
 
 ### How to Install and Run Data
-   - 1. 
+   - To add our data, please use [the GitHub pull request approach] (https://help.github.com/articles/using-pull-requests/). You can either work online or        create a local copy ("clone") of this repository to work in.
 
 ### Information for final project:
 - Presentation dates: **Nov 29; Dec 1**
@@ -35,3 +37,6 @@ The dataset includes many image properties such as:
 ### Deliverables (for final writeup):
   - Jupyter notebook, supporting data files, Binder environment, and README in repo
   - Edits reflecting student and instructor feedback can be made until due date
+
+![image](https://user-images.githubusercontent.com/110213774/202562515-54d9687f-f10d-4aa2-b6b8-4a5da4c3ffc3.png)
+
