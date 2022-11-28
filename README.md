@@ -4,8 +4,8 @@
 #### Student Authors: Elise Gonzales, Lewis White, Amrit Sandhu
 
 ### Contents:
-- HW2_template.ipynb: Template Jupyter notebook for use in Homework 2 and final project
-- environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
+- final_project_fr_fr.ipynb: Final project Jupyter notebook
+- environment.yml: Environment file for use in creating Binder environment for running Jupyter notebook
 
 ### Project Purpose:
 The goal of our project is to map the flood events ranging from year 2000 to 2018. More specifically, the goal is to focus on the flood events in Bangladesh and their impacts in the past 20 years. Bangladesh has a tropical monsoon-type climate, with hot and rainy summers and dry winters. It has very low-lying land, and is exposed to increased rainfall and cyclones that are likely going to intensify due to climate change. Bangladesh is densely populated, with 70 million people living in flood-prone areas. Flood events leave hundreds of thousands of people displaced yearly. A series of cyclones and storms over the years have led to mass destruction and loss of human life.
@@ -27,7 +27,7 @@ The dataset includes many image properties such as:
    - To add our data, please use [the GitHub pull request approach] (https://help.github.com/articles/using-pull-requests/). You can either work online or        create a local copy ("clone") of this repository to work in.
 
 ### Information for final project:
-- Presentation dates: **Nov 29; Dec 1**
+- Presentation date: **Nov 29**
 - Final writeup hand-in date: **Dec 5**
 - Deliverables (for in-class presentation):
   - Jupyter notebook - all sections completed, initial sections edited to reflect grade feedback
@@ -37,6 +37,8 @@ The dataset includes many image properties such as:
 ### Deliverables (for final writeup):
   - Jupyter notebook, supporting data files, Binder environment, and README in repo
   - Edits reflecting student and instructor feedback can be made until due date
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-team6/main?labpath=final_project_fr_fr.ipynb)
 
 ![image](https://user-images.githubusercontent.com/110213774/204223471-7a9ed796-4b1b-433d-810c-8e5ad44f1d69.png)
 
