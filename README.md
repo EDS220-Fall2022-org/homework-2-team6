@@ -38,5 +38,5 @@ The dataset includes many image properties such as:
   - Jupyter notebook, supporting data files, Binder environment, and README in repo
   - Edits reflecting student and instructor feedback can be made until due date
 
-![image](https://user-images.githubusercontent.com/110213774/202562515-54d9687f-f10d-4aa2-b6b8-4a5da4c3ffc3.png)
+![image](https://user-images.githubusercontent.com/110213774/204223471-7a9ed796-4b1b-433d-810c-8e5ad44f1d69.png)
 
