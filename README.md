@@ -38,7 +38,7 @@ The dataset includes many image properties such as:
   - Jupyter notebook, supporting data files, Binder environment, and README in repo
   - Edits reflecting student and instructor feedback can be made until due date
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-team6/main?labpath=final_project_fr_fr.ipynb)
 
 ![image](https://user-images.githubusercontent.com/110213774/204223471-7a9ed796-4b1b-433d-810c-8e5ad44f1d69.png)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-team6/main?labpath=final_project_fr_fr.ipynb)
