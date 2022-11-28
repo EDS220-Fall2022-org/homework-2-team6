@@ -1,4 +1,4 @@
-# EDS220_Fall2022_HW2
+# EDS220_Fall2022_Final Project
 ## An Analysis of Global Flood Data
 
 #### Student Authors: Elise Gonzales, Lewis White, Amrit Sandhu
