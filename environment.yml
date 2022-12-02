@@ -17,4 +17,5 @@ dependencies:
   - netcdf4==1.5.1
   - earthengine-api
   - geemap
+  - fiona
   
